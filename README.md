@@ -1,6 +1,8 @@
 sqlteaching
 ===========
 
+[![Join the chat at https://gitter.im/renoirfaria/sqlteaching](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/renoirfaria/sqlteaching?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 SQL Teaching is an interactive tutorial for learning SQL.  It is available on http://www.sqlteaching.com
 
 SQL Teaching is MIT licensed - see the LICENSE file for more details.
